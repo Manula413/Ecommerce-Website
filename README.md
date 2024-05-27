@@ -62,14 +62,16 @@ Open your web browser and navigate to http://localhost/SuperMart.
 ## Usage
 
 **Customer Usage**
-1.Browse Products: Navigate through categories to view products.
-2.Add to Cart/Wishlist: Click on products to add them to your cart or wishlist.
-3.Checkout: Proceed to checkout and place an order using cash on delivery.
-4.Order History: View previous orders and their statuses in your profile.
-5.Manage Profile: Update your personal information and account settings.
+
+1. Browse Products: Navigate through categories to view products.
+2. Add to Cart/Wishlist: Click on products to add them to your cart or wishlist.
+3. Checkout: Proceed to checkout and place an order using cash on delivery.
+4. Order History: View previous orders and their statuses in your profile.
+5. Manage Profile: Update your personal information and account settings.
 
 **Admin Usage**
-1.Manage Inventory: Add, edit, or remove products from the inventory section.
-2.Order Management: View and manage all customer orders from the orders section.
-3.Shipping Management: Update shipping statuses and track deliveries.
-4.Customer Management: Block or unblock customer accounts as needed.
+
+1. Manage Inventory: Add, edit, or remove products from the inventory section.
+2. Order Management: View and manage all customer orders from the orders section.
+3. Shipping Management: Update shipping statuses and track deliveries.
+4. Customer Management: Block or unblock customer accounts as needed.
