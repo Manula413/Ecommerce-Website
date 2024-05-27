@@ -39,27 +39,27 @@ Dias SuperMart is a comprehensive e-commerce website designed for a supermarket.
    ```bash
    git clone https://github.com/your-username/SuperMart.git
    cd SuperMart
-2.**Set up MySQL Database:**
+2. **Set up MySQL Database:**
 
 - Install MySQL Server if not already installed.
 - Create a new database named supermart.
 - Run the SQL script provided in the database folder to create necessary tables.
 
-3.**Configure the application:**
+3. **Configure the application:**
 
 - Open the project in Visual Studio or your preferred code editor.
 - Update the database configuration in the config.php file with your MySQL credentials.
 
-4.**Set up local server:**
+4. **Set up local server:**
 
 - Move the project folder to the htdocs directory if using XAMPP or the www directory if using WAMP.
 - Start the Apache and MySQL services from the XAMPP/WAMP control panel.
 
-5.**Access the website:**
+5. **Access the website:**
 
 Open your web browser and navigate to http://localhost/SuperMart.
 
-Usage
+### Usage
 
 **Customer Usage**
 1.Browse Products: Navigate through categories to view products.
