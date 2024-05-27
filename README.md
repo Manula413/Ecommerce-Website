@@ -59,7 +59,7 @@ Dias SuperMart is a comprehensive e-commerce website designed for a supermarket.
 
 Open your web browser and navigate to http://localhost/SuperMart.
 
-### Usage
+## Usage
 
 **Customer Usage**
 1.Browse Products: Navigate through categories to view products.
